@@ -1,4 +1,4 @@
-# Hello 👋
+## Hello! 👋
 - :man_technologist: I am an engineering graduate pursuing a career in data analytics to help organizations make better data driven decisions with my analytical and problem solving skills. 
 - ⚽ While I am passionate about the use of data analytics in sports, I am also determined to gain expertise in other domains.
 - 📚 I have completed the Google certified Data Analytics Professional Certificate and have proficiency in analytical tools such as Spreadsheet, SQL, Tableau and R programming language. 
