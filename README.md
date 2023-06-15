@@ -1,8 +1,5 @@
 ## Hello! 👋
-- :man_technologist: I am an engineering graduate pursuing a career in data analytics to help organizations make better data driven decisions with my analytical and problem solving skills. 
-- ⚽ While I am passionate about the use of data analytics in sports, I am also determined to gain expertise in other domains.
-- 📚 I have completed the Google certified Data Analytics Professional Certificate and have proficiency in analytical tools such as Spreadsheet, SQL, Tableau and R programming language. 
-- 📄 In the past, I have worked to enhance the performance of teams and individual athletes to gain better on-field results with the use of data analytics.
+A motivated and enthusiastic engineering graduate, I am pursuing a career in big data analytics to assist companies in making data-driven decisions. With strong critical thinking abilities and my passion for analytical problem-solving, I'm eager to enhance business performances. I hold a Post Graduate Diploma in Big Data Analytics from the Centre for Development of Advanced Computing (CDAC). I have gained an in-depth knowledge and understanding of Python and R programming languages along with SQL and NoSQL databases such as MySQL and MongoDB. My expertise extends to a diverse knowledge stack that encompasses Linux, fundamentals of machine learning, deep learning and neural networks, cloud computing on Amazon Web Services, big data technologies such as Hadoop, Hive, Spark and data visualization with Tableau. I'm committed to capitalize on the potential of data as the future currency to drive business growth.
 <!---
 pratikkanade/pratikkanade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
